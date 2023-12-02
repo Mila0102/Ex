@@ -1,0 +1,15 @@
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\bin\Debug\net6.0\task.exe
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\bin\Debug\net6.0\task.deps.json
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\bin\Debug\net6.0\task.dll
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\bin\Debug\net6.0\task.pdb
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.dll
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.pdb
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\atzkt\OneDrive\Рабочий стол\lesson branches\sem5515\task\obj\Debug\net6.0\ref\task.dll

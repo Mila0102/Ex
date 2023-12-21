@@ -3,12 +3,15 @@
 // Указание Конструктор строки вида string(char []) 
 // не использовать. 
 // Пример [‘a’, ‘b’, ‘c’, ‘d’] => “abcd”
-
+using System.Text;
 
 char[] arr = {'a', 'b', 'c', 'd'};
 string st = "";
+
+StringBuilder strB = new StringBuilder();
 for (int i = 0; i < arr.Length; i++)
 {
-    st += arr[i];
+    // st += arr[i];
+ strB.Append(arr[i]);
 }
-Console.WriteLine(st);
+Console.WriteLine(strB.ToString());
